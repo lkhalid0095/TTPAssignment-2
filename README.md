@@ -13,6 +13,6 @@ indexOf()\
 Push()\
 lastIndexOf()\
 Object.keys()\
-Object.values()\
+Object.values()
 
 !!DONT USE ANY NATIVE JS FUNCTIONS!!
